@@ -18,6 +18,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nahid-hassan-emon&show_icons=true&locale=en&layout=compact" alt="nahid-hassan-emon" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nahid-hassan-emon&show_icons=true&locale=en" alt="nahid-hassan-emon" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=nahid-hassan-emon&show_icons=true&locale=en" alt="nahid-hassan-emon" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nahid-hassan-emon&" alt="nahid-hassan-emon" /></p>
