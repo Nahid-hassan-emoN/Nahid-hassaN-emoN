@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md. Nahid Hassan</h1>
 <h3 align="center">I'm a passionate front-end developer with a keen eyefor design and a love for creating exceptional userexperiences....</h3>
 
-<img align="right" altt="coding" widtth="200" SRC="https://marketbusinessnews.com/wp-content/uploads/2020/10/1-Predictive-Analytics-GIF-for-article.gif">
+<img align="right" altt="coding" widtth="100" SRC="https://marketbusinessnews.com/wp-content/uploads/2020/10/1-Predictive-Analytics-GIF-for-article.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nahid-hassan-emon&label=Profile%20views&color=0e75b6&style=flat" alt="nahid-hassan-emon" /> </p>
 
